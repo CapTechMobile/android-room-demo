@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Room Demo</string>
+    <string name="edit_note">Edit note</string>
+    <string name="note_title">Note title</string>
+    <string name="note_content">Note content</string>
+    <string name="save_note">Save Note</string>
+    <string name="new_category_name">New category name</string>
+    <string name="create_new_category">Create new category</string>
+</resources>
